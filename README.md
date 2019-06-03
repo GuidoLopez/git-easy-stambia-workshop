@@ -1,1 +1,0 @@
-# git-easy-stambia-workshop
